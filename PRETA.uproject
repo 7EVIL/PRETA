@@ -88,6 +88,10 @@
 		{
 			"Name": "UIWidgetsLib",
 			"Enabled": true
+		},
+		{
+			"Name": "RemoteControl",
+			"Enabled": true
 		}
 	]
 }
