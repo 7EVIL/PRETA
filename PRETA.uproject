@@ -102,6 +102,10 @@
 			"Name": "InventorySystemX",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b804d0c431f9433d972a1aa95a6641e6"
+		},
+		{
+			"Name": "PhysicsControl",
+			"Enabled": true
 		}
 	]
 }
