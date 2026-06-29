@@ -94,6 +94,11 @@
 			"Enabled": true
 		},
 		{
+			"Name": "UEGoreSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/58a11c5d7b5047cfbbdc6748c00533f1"
+		},
+		{
 			"Name": "InventorySystemX",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b804d0c431f9433d972a1aa95a6641e6"
