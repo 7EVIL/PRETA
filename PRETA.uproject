@@ -150,10 +150,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MetaHumanForMaya",
-			"Enabled": true
-		},
-		{
 			"Name": "MetaHumanRuntime",
 			"Enabled": true
 		},
